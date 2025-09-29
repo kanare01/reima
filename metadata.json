@@ -1,0 +1,5 @@
+{
+  "name": "Kenya Property Management System",
+  "description": "A Property-Centric Rental Income Management System for a Kenyan real estate firm. It tracks properties, units, tenants, and monthly rent payments, focusing on manual payment recording, arrears tracking, and reporting.",
+  "requestFramePermissions": []
+}
